@@ -53,7 +53,7 @@ To use the GOLANG CLI Reminder Tool, follow the format below:
 
 2. Set  a  reminder  for  9:00  AM  with  the  message  "Work Meeting":
 	  ```
-	./reminder-tool  09:00  "Meeting with the team"
+	./reminder-tool  09:00  "Work Meeting"
 	  ```
   
 
