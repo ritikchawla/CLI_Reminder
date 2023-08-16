@@ -59,11 +59,11 @@ To use the GOLANG CLI Reminder Tool, follow the format below:
 
 ## Notes
 
-The  tool  will  only  display  reminders  for  future  times.
+- The  tool  will  only  display  reminders  for  future  times.
 
-The  reminder  will  be  displayed  using  the  beeep  package,  and  an  alert  sound  will  be  played.
+- The  reminder  will  be  displayed  using  the  beeep  package,  and  an  alert  sound  will  be  played.
 
-If  you're running the tool in the background, it will wait until the reminder time is reached before displaying the reminder and playing the sound.
+- If  you're running the tool in the background, it will wait until the reminder time is reached before displaying the reminder and playing the sound.
 
   
 
